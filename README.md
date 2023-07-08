@@ -1,7 +1,9 @@
 <h1>Hi, I'm Pieter! <br/><a href="https://github.com/PieterSdejager">IT Professional</a>, <a href="https://github.com/PieterSdejager">Cybersecurity Enthusiast</a> and <a href="https://github.com/PieterSdejager">D&D Geek</a></h1>
 
 <h2>👨‍💻 Current Projects:</h2>
-- HomeLab Build
+
+
+- [Homelab Build](https://github.com/PieterSdejager/Homelab)
 
 <h2>Certifications</h2>
 
