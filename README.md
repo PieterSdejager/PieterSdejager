@@ -10,10 +10,11 @@
 - CompTIA A+
 - CompTIA N+
 - CompTIA S+
-- Juniper Networks JNCIA (In Progress)
-- Microsoft Azure Fundamentals (In Progress)
-- Google Cybersecurity Professional Certificate (In Progress)
--  
+- Google Cybersecurity Professional Certificate 
+- AZ-900 Microsoft Azure Fundamentals
+- MS-900 Microsoft 365 Fundamentals 
+- SC-900 Microsoft Security, Compliance, and Identity Fundamentals
+- SC-200 Microsoft Certified: Security Operations Analyst Associate (In Progress)
 
 <h2> 🤳 Connect with me:</h2>
 
